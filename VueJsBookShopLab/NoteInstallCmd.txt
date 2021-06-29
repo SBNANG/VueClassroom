@@ -1,0 +1,5 @@
+npm install axios
+npm install vue-axios
+
+npm install vue-router
+vue add router
